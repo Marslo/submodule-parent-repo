@@ -1,0 +1,4 @@
+[submodule "submodule-with-branch-1"]
+	path = submodule-with-branch-1
+	url = git@github.com:Marslo/submodule-child-repo.git
+	branch = branch-1
